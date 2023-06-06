@@ -22,6 +22,7 @@ My links:
   <br>
 
   ![Giovani GitHub stats](https://github-readme-stats.vercel.app/api?username=giocolombarolli&show_icons=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giocolombarolli&layout=compact&theme=radical)](https://github.com/giocolombarolli/github-readme-stats)
 
 ## Hobbyes 🔥🚀
 <div style="display: inline_block">
