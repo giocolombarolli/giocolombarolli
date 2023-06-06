@@ -23,7 +23,7 @@ My links:
 
   ![Giovani GitHub stats](https://github-readme-stats.vercel.app/api?username=giocolombarolli&show_icons=true&theme=tokyonight)
 
-🔥🚀 Hobbyes:
+## Hobbyes 🔥🚀
 <div style="display: inline_block">
   
   <img align="center" alt="Gym" src="https://img.shields.io/badge/🏋️‍♂️-GYM-1511E0.svg?style=for-the-badge" />
