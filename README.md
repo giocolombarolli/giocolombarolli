@@ -6,7 +6,7 @@ My links:
 [![GooglePlay](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)]()
 
 
-### Technologies used in my daily life:
+## Technologies used in my daily life:
 <div style="display: inline_block">
   <img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" />
   <img align="center" alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
