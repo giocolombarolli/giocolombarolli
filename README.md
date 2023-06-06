@@ -19,16 +19,26 @@ My links:
   <img align="center" alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <br>
-  <br>
+  <br/>
 
   ![Giovani GitHub stats](https://github-readme-stats.vercel.app/api?username=giocolombarolli&show_icons=true&theme=tokyonight)
   <br>
-  <br>
+  <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giocolombarolli&layout=compact&theme=radical)](https://github.com/giocolombarolli/github-readme-stats)
-
-## Hobbyes 🔥🚀
-<div style="display: inline_block">
+  <br>
+  <br/>
   
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+  <br>
+  <br/>
+  
+  
+  ## Hobbyes 🔥🚀
+<div style="display: inline_block">
   <img align="center" alt="Gym" src="https://img.shields.io/badge/🏋️‍♂️-GYM-1511E0.svg?style=for-the-badge" />
   <img align="center" alt="Music" src="https://img.shields.io/badge/🎸-Music-e31945.svg?style=for-the-badge" />
   <img align="center" alt="Games" src="https://img.shields.io/badge/🧙‍♂️-Games-6f6ac2.svg?style=for-the-badge" />
